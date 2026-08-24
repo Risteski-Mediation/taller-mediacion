@@ -142,8 +142,13 @@ footer { padding: 34px 0; border-top: 1px solid #e4ebf2; }
 }
 
 .whatsapp-link {
+  color: #00DDCA;
   font-weight: 700;
   text-decoration: none;
+}
+
+.whatsapp-link:hover {
+  text-decoration: underline;
 }
 
 .whatsapp-link:hover {
