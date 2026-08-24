@@ -141,16 +141,14 @@ footer { padding: 34px 0; border-top: 1px solid #e4ebf2; }
   margin: 0 0 6px;
 }
 
-.whatsapp-link {
-  color: #00DDCA;
+.whatsapp-contact .whatsapp-link,
+.whatsapp-contact .whatsapp-link:visited {
+  color: #00DDCA !important;
   font-weight: 700;
   text-decoration: none;
 }
 
-.whatsapp-link:hover {
-  text-decoration: underline;
-}
-
-.whatsapp-link:hover {
+.whatsapp-contact .whatsapp-link:hover {
+  color: #99CAFF !important;
   text-decoration: underline;
 }
