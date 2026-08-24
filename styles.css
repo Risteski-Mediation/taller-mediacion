@@ -128,3 +128,25 @@ footer { padding: 34px 0; border-top: 1px solid #e4ebf2; }
   .facts-card strong { text-align: left; }
   .footer-inner { flex-direction: column; text-align: center; }
 }
+.registration-right {
+  display: flex;
+  flex-direction: column;
+}
+
+.whatsapp-contact {
+  margin-top: 24px;
+  padding-left: 26px;
+}
+
+.whatsapp-contact p {
+  margin: 0 0 6px;
+}
+
+.whatsapp-link {
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.whatsapp-link:hover {
+  text-decoration: underline;
+}
